@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Drone client</string>
+    <string name="local_ip">192.168.0.113</string>
+    <string name="def_port">8088</string>
+    <string name="addr_storage_key">ip_address_saved</string>
+</resources>

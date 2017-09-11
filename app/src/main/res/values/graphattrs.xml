@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Plot">
+        <attr name="Title" format="string"/>
+        <attr name="Background" format="color"/>
+        <attr name="Color" format="color"/>
+        <attr name="GraphsCount" format="integer"/>
+        <attr name="PointsCount" format="integer"/>
+
+    </declare-styleable>
+</resources>
